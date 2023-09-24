@@ -3,4 +3,35 @@ video and audio files for Greek Music seminar
 
 [link](http://www.google.com)
 
-[link to mp3 file](https://github.com/evyatark/GreekMusic/blob/master/%D7%A7%D7%95%D7%91%D7%A5%20%D7%90%D7%95%D7%93%D7%99%D7%95%2002%20-%20%D7%94%D7%A7%D7%A8%D7%90%D7%AA%20%D7%94%D7%A9%D7%99%D7%A8%20%D7%90%D7%9C%20%D7%94%D7%A6%D7%99%D7%A4%D7%95%D7%A8.mp3)
+
+
+vids
+
+01
+https://github.com/evyatark/GreekMusic/assets/4737148/d3bf3f43-b3cd-459e-9592-aa39a87759b8
+
+[video file](https://github.com/evyatark/GreekMusic/assets/4737148/d3bf3f43-b3cd-459e-9592-aa39a87759b8)
+
+
+04
+https://github.com/evyatark/GreekMusic/assets/4737148/ea66e9aa-c828-4bc2-b93e-5e3326bcb9d1
+
+07
+https://github.com/evyatark/GreekMusic/assets/4737148/c8656c44-a433-4164-b549-4b4463baa7dd
+
+10
+https://github.com/evyatark/GreekMusic/assets/4737148/65f618da-0273-45b4-8e8d-49ddf0c000e6
+
+12
+https://github.com/evyatark/GreekMusic/assets/4737148/20a887bf-c782-4650-9eb7-aa7c6789f28e
+
+
+
+02
+https://github.com/evyatark/GreekMusic/assets/4737148/30c9440c-9e12-483f-912e-262343a4b646
+
+[audio file](https://github.com/evyatark/GreekMusic/assets/4737148/30c9440c-9e12-483f-912e-262343a4b646)
+
+
+
+

@@ -1,12 +1,14 @@
 # GreekMusic
 video and audio files for Greek Music seminar
-
+<div dir='rtl'>
 להלן כל קבצי האודיו והוידיאו השייכים לעבודה "לשיר את האודיסיאה" שנכתבה ע"י אביתר כפכפי - החוג ללימודים קלאסיים, אוניברסיטת תל אביב - באוקטובר 2023.
 
 יש ללחוץ על כל לינק כדי לשמוע/לצפות בקובץ.
 
+לאחר מכן אפשר ללחוץ על כפתור ה"BACK" בדפדפן כדי לחזור לעמוד זה.
+</div>
 
-vids
+## vids
 
 [video file 01 התוים סול דו](https://github.com/evyatark/GreekMusic/assets/4737148/d3bf3f43-b3cd-459e-9592-aa39a87759b8)
 
@@ -20,7 +22,7 @@ vids
 
 
 
-audio (as mp4)
+## audio (as mp4)
 
 [audio file 02 הקראת השיר אל הציפור](https://github.com/evyatark/GreekMusic/assets/4737148/9f1b8b44-e0dc-4ec4-ac92-bc6aee2a30cf)
 
